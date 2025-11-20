@@ -1,8 +1,7 @@
 
-
 # 📘 Automation Assignment: Monthly Assessment Marks Calculation using n8n
 
-This project automates the **Monthly Assessment Evaluation** process for students of **Innomatics Research Labs**, using the low-code automation tool **n8n**.
+This project automates the **Monthly Assessment Evaluation** process for students of **MindSpace College**, using the low-code automation tool **n8n**.
 The workflow calculates each student’s **average score** and determines **placement eligibility** automatically.
 
 ---
@@ -85,15 +84,5 @@ Submit sample responses to verify:
 * Correct average calculation
 * Accurate eligibility status
 * Smooth workflow execution
-
----
-
-## 🙌 Acknowledgements
-
-Special thanks to:
-
-* **Trainer:** Saxon K SHA
-* **Program Manager:** Raguram Aduri
-* **Innomatics Research Labs**
 
 ---
